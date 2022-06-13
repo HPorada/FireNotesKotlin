@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896211692072",
+    "project_id": "firenoteskotlin-c92ae",
+    "storage_bucket": "firenoteskotlin-c92ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896211692072:android:471654bfcac5015ec2e31d",
+        "android_client_info": {
+          "package_name": "com.example.firenoteskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896211692072-qlusib3gn2vhi3a9n2s3apa5d0eafhlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSXF_-YITCr_igYL4twbPSkSSDt6f4Nj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896211692072-qlusib3gn2vhi3a9n2s3apa5d0eafhlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
